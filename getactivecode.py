@@ -23,6 +23,3 @@ if __name__ == '__main__':
         print(value)
         SaveKey(value)
 
-# chars = string.ascii_letters + string.digits
-# result = ''.join([random.choice(chars) for i in range(20)])
-# print(result)
